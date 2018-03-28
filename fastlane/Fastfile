@@ -1,0 +1,3 @@
+lane :test do
+  git_commit_changelog_to_markdown
+end
